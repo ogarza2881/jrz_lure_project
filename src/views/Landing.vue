@@ -115,7 +115,7 @@
                                  style="width: 200px;">
                             <div class="pt-4 text-center">
                                 <h5 class="title">
-                                    <span class="d-block mb-1">Ryan Tompson</span>
+                                    <span class="d-block mb-1">test user</span>
                                     <small class="h6 text-muted">Web Developer</small>
                                 </h5>
                                 <div class="mt-3">
@@ -136,7 +136,7 @@
                                  style="width: 200px;">
                             <div class="pt-4 text-center">
                                 <h5 class="title">
-                                    <span class="d-block mb-1">Ryan Tompson</span>
+                                    <span class="d-block mb-1">test user</span>
                                     <small class="h6 text-muted">Web Developer</small>
                                 </h5>
                                 <div class="mt-3">
@@ -157,7 +157,7 @@
                                  style="width: 200px;">
                             <div class="pt-4 text-center">
                                 <h5 class="title">
-                                    <span class="d-block mb-1">Ryan Tompson</span>
+                                    <span class="d-block mb-1">test user</span>
                                     <small class="h6 text-muted">Web Developer</small>
                                 </h5>
                                 <div class="mt-3">
@@ -178,7 +178,7 @@
                                  style="width: 200px;">
                             <div class="pt-4 text-center">
                                 <h5 class="title">
-                                    <span class="d-block mb-1">Ryan Tompson</span>
+                                    <span class="d-block mb-1">Test User</span>
                                     <small class="h6 text-muted">Web Developer</small>
                                 </h5>
                                 <div class="mt-3">
